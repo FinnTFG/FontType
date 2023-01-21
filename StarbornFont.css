@@ -1,0 +1,19 @@
+/**
+* @name StarbornFont
+* @author Finn<3#0465
+* @description I made my own font changer!
+* @version 1.0
+* @source https://github.com/FinnTFG/FontType
+*/
+
+:root {
+    --font-primary: "Starborn" !important;
+    --font-display: "Starborn" !important;
+}
+
+@font-face {
+    font-family: "Starborn";
+    font-style: normal;
+    font-weight: 300;
+    src: url("https://storage.cloudconvert.com/tasks/aef52040-5399-4bfc-adf5-54033ad7c29e/Starborn.woff2?AWSAccessKeyId=cloudconvert-production&Expires=1674404894&Signature=jCDn%2BSKzAIA76s5hZhasU1lnik8%3D&response-content-disposition=attachment%3B%20filename%3D%22Starborn.woff2%22&response-content-type=font%2Fwoff2") format("woff2");
+}
